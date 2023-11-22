@@ -5,11 +5,11 @@ Olá, eu sou Carlos Augusto
 ## Meus hobbies
 
 - Estudar design
-- Jogar videogame 
-- Pescar
 - Desenhar
 - Fazer pinturas a Oleo
-- Assistir animes
+- Jogar videogame
+- Assistir animes 
+- Pescar
 
 ## Atualmente estudando
 
