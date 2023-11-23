@@ -23,6 +23,7 @@ Moro em Goiânia-GO
 
 ## Meus contatos
 
+- Linkedin  ---------------------
 - Twitter   ---------------------
 - GitHub    ---------------------
 - Email     ---------------------
